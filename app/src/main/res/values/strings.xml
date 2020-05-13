@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda Telefonica</string>
+    <string name="label_phones">Lista Telefonica</string>
+    <string name="label_email">E-mails</string>
+    <string name="label_about">Sobre</string>
+    <string name="avatar_contdes">Avatar do Estudante</string>
+</resources>
